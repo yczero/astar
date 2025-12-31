@@ -29,6 +29,7 @@ setup(
         'console_scripts': [
             'map_astar = astar_pkg.map_astar:main',
             'map_star = astar_pkg.map_star:main',
+            'map_avoid = astar_pkg.map_avoid:main',
         ],
     },
 )
